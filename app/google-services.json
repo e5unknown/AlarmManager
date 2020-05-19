@@ -1,0 +1,222 @@
+{
+  "project_info": {
+    "project_number": "935651190838",
+    "firebase_url": "https://fir-start-85dda.firebaseio.com",
+    "project_id": "fir-start-85dda",
+    "storage_bucket": "fir-start-85dda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935651190838:android:020030f06a59522882d097",
+        "android_client_info": {
+          "package_name": "com.dev420.alarmmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935651190838-q2mqgcr97ekjqqan4243mq4lju6pa505.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_6igtYjDt5D3TyTz-26Yk1aeG5p2LaY"
+        },
+        {
+          "current_key": "AIzaSyCPlGoCraTd7cnLm4A3p3fn8uu8qfCByW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935651190838-q2mqgcr97ekjqqan4243mq4lju6pa505.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935651190838-mel21j9nvesas70nmvu7n9et7gvdtbev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev420.GeniusParty"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935651190838:android:daa7bd241cb3e98782d097",
+        "android_client_info": {
+          "package_name": "com.dev420.costumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935651190838-mrbi8fbbod8009l0culcc21c8kmd31d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev420.costumer",
+            "certificate_hash": "4ebb76474880fb5103df356d283836572afe5a5b"
+          }
+        },
+        {
+          "client_id": "935651190838-q2mqgcr97ekjqqan4243mq4lju6pa505.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_6igtYjDt5D3TyTz-26Yk1aeG5p2LaY"
+        },
+        {
+          "current_key": "AIzaSyCPlGoCraTd7cnLm4A3p3fn8uu8qfCByW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935651190838-q2mqgcr97ekjqqan4243mq4lju6pa505.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935651190838-mel21j9nvesas70nmvu7n9et7gvdtbev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev420.GeniusParty"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935651190838:android:387309973de3dc1b",
+        "android_client_info": {
+          "package_name": "com.dev420.firebasestart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935651190838-qi5id8va3mn4vk4euat7oi1ovo2s6nr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev420.firebasestart",
+            "certificate_hash": "5633dedd2ecb659f7cf0f6edbeaf3ee63eca10cb"
+          }
+        },
+        {
+          "client_id": "935651190838-q2mqgcr97ekjqqan4243mq4lju6pa505.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_6igtYjDt5D3TyTz-26Yk1aeG5p2LaY"
+        },
+        {
+          "current_key": "AIzaSyCPlGoCraTd7cnLm4A3p3fn8uu8qfCByW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935651190838-q2mqgcr97ekjqqan4243mq4lju6pa505.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935651190838-mel21j9nvesas70nmvu7n9et7gvdtbev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev420.GeniusParty"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935651190838:android:3225a1ab45c0c06882d097",
+        "android_client_info": {
+          "package_name": "com.dev420.gameeditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935651190838-q2mqgcr97ekjqqan4243mq4lju6pa505.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_6igtYjDt5D3TyTz-26Yk1aeG5p2LaY"
+        },
+        {
+          "current_key": "AIzaSyCPlGoCraTd7cnLm4A3p3fn8uu8qfCByW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935651190838-q2mqgcr97ekjqqan4243mq4lju6pa505.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935651190838-mel21j9nvesas70nmvu7n9et7gvdtbev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev420.GeniusParty"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935651190838:android:54fdb92c4bf337cf",
+        "android_client_info": {
+          "package_name": "com.dev420.geniusparty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935651190838-q2mqgcr97ekjqqan4243mq4lju6pa505.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_6igtYjDt5D3TyTz-26Yk1aeG5p2LaY"
+        },
+        {
+          "current_key": "AIzaSyCPlGoCraTd7cnLm4A3p3fn8uu8qfCByW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935651190838-q2mqgcr97ekjqqan4243mq4lju6pa505.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935651190838-mel21j9nvesas70nmvu7n9et7gvdtbev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev420.GeniusParty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
