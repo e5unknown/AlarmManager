@@ -25,27 +25,28 @@
         android:id="@+id/button1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="show alarm channel 1"/>
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="show alarm channel 2"/>
+        android:text="show alarm"/>
 
     <TextView
-        android:id="@+id/textview"
+        android:id="@+id/text_alarm"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="24sp"
         android:textAlignment="center"
-        tools:text="time"/>
+        android:text="No Alarm"/>
     <Button
-        android:id="@+id/buttonTime"
+        android:id="@+id/button_time_picker"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Выбрать время"/>
+        android:text="Pick Time"/>
+
+    <Button
+        android:id="@+id/button_cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Cancel Alarm"/>
 
 
 </LinearLayout>
